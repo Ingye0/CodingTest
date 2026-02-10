@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Numerics;
 
 namespace Bronze
 {
@@ -9,7 +8,7 @@ namespace Bronze
         static void Main()
         {
             int testcase = int.Parse(Console.ReadLine());
-            List<double> results1 = new List<double>(testcase);
+            List<double> results = new List<double>();
 
             for (int i = 0; i < testcase; i++)
             {
@@ -17,18 +16,21 @@ namespace Bronze
                 int a = int.Parse(inputs[0]);
                 int b = int.Parse(inputs[1]);
 
-                double result = Math.Pow(a, b) % 10;
+                double result = Math.Pow(a, b);
+
+                result = result % 10;
+
                 if (result == 0)
                 {
                     result = 10;
                 }
 
-                results1.Add(result);
+                results.Add(result);
             }
 
-            foreach (BigInteger b in results1)
+            foreach (int x in results)
             {
-                Console.WriteLine(b);
+                Console.WriteLine(x);
             }
         }
     }
