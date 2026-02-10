@@ -1,36 +1,33 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Bronze
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            int testcase = int.Parse(Console.ReadLine());
-            List<double> results = new List<double>();
+            int testCase = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < testcase; i++)
+            for (int i = 0; i < testCase; i++)
             {
+                int result = 1;
+
                 string[] inputs = Console.ReadLine().Split(' ');
+
                 int a = int.Parse(inputs[0]);
                 int b = int.Parse(inputs[1]);
 
-                double result = Math.Pow(a, b);
-
-                result = result % 10;
-
-                if (result == 0)
+                for (int j = 0; j < b; j++)
                 {
-                    result = 10;
+                    result = (result * a) % 10;
+
+                    if (result == 0)
+                    {
+                        result = 10;
+                    }
                 }
 
-                results.Add(result);
-            }
-
-            foreach (int x in results)
-            {
-                Console.WriteLine(x);
+                Console.WriteLine(result);
             }
         }
     }

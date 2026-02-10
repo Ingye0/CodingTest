@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\CodingTest\0210\0210\bin\Debug\0210.exe.config
+C:\Users\user\Documents\GitHub\CodingTest\0210\0210\bin\Debug\0210.exe
+C:\Users\user\Documents\GitHub\CodingTest\0210\0210\bin\Debug\0210.pdb
+C:\Users\user\Documents\GitHub\CodingTest\0210\0210\obj\Debug\0210.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CodingTest\0210\0210\obj\Debug\0210.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CodingTest\0210\0210\obj\Debug\0210.exe
+C:\Users\user\Documents\GitHub\CodingTest\0210\0210\obj\Debug\0210.pdb
