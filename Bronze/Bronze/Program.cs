@@ -9,15 +9,15 @@ namespace Bronze
         static void Main()
         {
             int testcase = int.Parse(Console.ReadLine());
-            List<BigInteger> results1 = new List<BigInteger>(testcase);
+            List<double> results1 = new List<double>(testcase);
 
             for (int i = 0; i < testcase; i++)
             {
-                var inputs = Console.ReadLine().Split(' ');
+                string[] inputs = Console.ReadLine().Split(' ');
                 int a = int.Parse(inputs[0]);
                 int b = int.Parse(inputs[1]);
 
-                BigInteger result = BigInteger.Pow(a, b) % 10;
+                double result = Math.Pow(a, b) % 10;
                 if (result == 0)
                 {
                     result = 10;
