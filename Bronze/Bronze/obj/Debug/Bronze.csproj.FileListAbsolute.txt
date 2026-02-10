@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Bronze\Bronze\bin\Debug\Bronze.exe.config
+C:\Users\user\source\repos\Bronze\Bronze\bin\Debug\Bronze.exe
+C:\Users\user\source\repos\Bronze\Bronze\bin\Debug\Bronze.pdb
+C:\Users\user\source\repos\Bronze\Bronze\obj\Debug\Bronze.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Bronze\Bronze\obj\Debug\Bronze.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Bronze\Bronze\obj\Debug\Bronze.exe
+C:\Users\user\source\repos\Bronze\Bronze\obj\Debug\Bronze.pdb
+C:\Users\user\Documents\GitHub\CodingTest\Bronze\Bronze\bin\Debug\Bronze.exe.config
+C:\Users\user\Documents\GitHub\CodingTest\Bronze\Bronze\bin\Debug\Bronze.exe
+C:\Users\user\Documents\GitHub\CodingTest\Bronze\Bronze\bin\Debug\Bronze.pdb
+C:\Users\user\Documents\GitHub\CodingTest\Bronze\Bronze\obj\Debug\Bronze.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CodingTest\Bronze\Bronze\obj\Debug\Bronze.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CodingTest\Bronze\Bronze\obj\Debug\Bronze.exe
+C:\Users\user\Documents\GitHub\CodingTest\Bronze\Bronze\obj\Debug\Bronze.pdb
