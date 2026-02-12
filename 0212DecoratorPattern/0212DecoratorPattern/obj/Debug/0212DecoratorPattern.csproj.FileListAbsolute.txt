@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\CodingTest\0212DecoratorPattern\0212DecoratorPattern\bin\Debug\0212DecoratorPattern.exe.config
+C:\Users\user\Documents\GitHub\CodingTest\0212DecoratorPattern\0212DecoratorPattern\bin\Debug\0212DecoratorPattern.exe
+C:\Users\user\Documents\GitHub\CodingTest\0212DecoratorPattern\0212DecoratorPattern\bin\Debug\0212DecoratorPattern.pdb
+C:\Users\user\Documents\GitHub\CodingTest\0212DecoratorPattern\0212DecoratorPattern\obj\Debug\0212DecoratorPattern.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CodingTest\0212DecoratorPattern\0212DecoratorPattern\obj\Debug\0212DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CodingTest\0212DecoratorPattern\0212DecoratorPattern\obj\Debug\0212DecoratorPattern.exe
+C:\Users\user\Documents\GitHub\CodingTest\0212DecoratorPattern\0212DecoratorPattern\obj\Debug\0212DecoratorPattern.pdb
