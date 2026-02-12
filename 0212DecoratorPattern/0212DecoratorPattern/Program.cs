@@ -19,7 +19,7 @@ public interface ICoffee
 public class BasicCoffee : ICoffee
 {
     // 기본 커피 설명
-    public string Description => "Basic Coffee";
+    public string Description => "기본커피";
 
     // 기본 커피 가격
     public int Cost()
@@ -58,7 +58,7 @@ public class Milk : CoffeeDecorator
 
     // 기존 커피 설명 뒤에 Milk를 추가
     public override string Description
-        => _coffee.Description + ", Milk";
+        => _coffee.Description + ", 우유 추가";
 
     // 기존 커피 가격에 우유 가격 추가
     public override int Cost()
@@ -74,7 +74,7 @@ public class Sugar : CoffeeDecorator
 
     // 기존 설명 뒤에 Sugar 추가
     public override string Description
-        => _coffee.Description + ", Sugar";
+        => _coffee.Description + ", 설탕 추가";
 
     // 기존 가격에 설탕 가격 추가
     public override int Cost()
