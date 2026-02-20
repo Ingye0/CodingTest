@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\CodingTest\0220Bronze\0220Bronze\bin\Debug\0220Bronze.exe.config
+C:\Users\user\Documents\GitHub\CodingTest\0220Bronze\0220Bronze\bin\Debug\0220Bronze.exe
+C:\Users\user\Documents\GitHub\CodingTest\0220Bronze\0220Bronze\bin\Debug\0220Bronze.pdb
+C:\Users\user\Documents\GitHub\CodingTest\0220Bronze\0220Bronze\obj\Debug\0220Bronze.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CodingTest\0220Bronze\0220Bronze\obj\Debug\0220Bronze.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CodingTest\0220Bronze\0220Bronze\obj\Debug\0220Bronze.exe
+C:\Users\user\Documents\GitHub\CodingTest\0220Bronze\0220Bronze\obj\Debug\0220Bronze.pdb
